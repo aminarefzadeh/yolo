@@ -1,0 +1,1 @@
+first change the address of file in darknet.py and then change the name of data/coco.names in cfg/coco.data to it's full name
